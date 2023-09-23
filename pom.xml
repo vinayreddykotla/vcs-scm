@@ -14,9 +14,9 @@
         <maven.compiler.target>11</maven.compiler.target>
  
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.organization>cb10awsdevops</sonar.organization>
-        <sonar.projectKey>cb10awsdevops_cb10</sonar.projectKey>
-        <sonar.login>abb39eb0ef3451eb892e2a6c7de38d3407d82b79</sonar.login>
+        <sonar.organization>awsdevops9</sonar.organization>
+        <sonar.projectKey>awsdevops9_devops9</sonar.projectKey>
+        <sonar.login>5dbda54036fcfc017b0334ad50abe5a1794c3fad</sonar.login>
        
     </properties>
 
