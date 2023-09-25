@@ -16,7 +16,7 @@
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.organization>awsdevops9</sonar.organization>
         <sonar.projectKey>awsdevops9_devops9</sonar.projectKey>
-        <sonar.login>5dbda54036fcfc017b0334ad50abe5a1794c3fad</sonar.login>
+        <sonar.login>70c1197cad11f2b90f5376a7d251dbef1b14166a</sonar.login>
        
     </properties>
 
