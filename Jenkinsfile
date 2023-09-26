@@ -47,5 +47,10 @@ pipeline {
                 sh 'mvn install'
             }
         }
+        stage('Stage-8 : Deploy an Artifact to Artifactory Manager i.e. Nexus/Jfrog') { 
+            steps {
+                sh 'mvn deploy'
+            }
+        }
     }
 }
