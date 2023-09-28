@@ -13,10 +13,10 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
  
-        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.organization>awsdevops9</sonar.organization>
-        <sonar.projectKey>awsdevops9_devops9</sonar.projectKey>
-        <sonar.login>70c1197cad11f2b90f5376a7d251dbef1b14166a</sonar.login>
+        <sonar.host.url>http://34.238.121.222:9000</sonar.host.url>
+        <sonar.organization>DevOps</sonar.organization>
+        <sonar.projectKey>DevOps</sonar.projectKey>
+        <sonar.login>sqp_820d40f934e705e562b6dbe5691f4faabae85189</sonar.login>
        
     </properties>
 
@@ -40,13 +40,13 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>libs-snapshot-local</name>
-        <url>https://devops90.jfrog.io/artifactory/libs-snapshot-local/</url>
+        <url>http://54.87.170.28:8082/artifactory/libs-snapshot-local/</url>
     </snapshotRepository>
     
     <repository>
         <id>releases</id>
         <name>libs-release-local</name>
-        <url>https://devops90.jfrog.io/artifactory/libs-release-local/</url>
+        <url>http://54.87.170.28:8082/artifactory/libs-release-local/</url>
     </repository>
 
 </distributionManagement>    
